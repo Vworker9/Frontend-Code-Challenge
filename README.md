@@ -1,3 +1,3 @@
 # Frontend-Code-Challenge
 
-### clone of download zip into locan and do "npm install"
+### clone of download zip into local and do "npm install"
